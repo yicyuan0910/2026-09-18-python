@@ -1,0 +1,3 @@
+name = input('name')
+score=input('score')
+print(f'(name) score is (score)')
